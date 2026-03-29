@@ -1,0 +1,9 @@
+streamlit
+crewai[tools]
+langchain
+langchain-community
+langchain-ollama
+duckduckgo-search
+
+# Optional: usually not needed on Windows because sqlite3 is built into Python
+# pysqlite3-binary
